@@ -1,0 +1,17 @@
+{
+    "id": "joan.joanAutoReply",
+    "spec": 3,
+    "version": "1.0.0",
+    "type": "plugin",
+    "display": {
+        "name": "JoanAutoReply",
+        "description": "AI auto-reply as Joan, replying in Banglish",
+        "authors": [
+            {
+                "name": "Joan",
+                "id": "0"
+            }
+        ]
+    },
+    "main": "index.js"
+}
