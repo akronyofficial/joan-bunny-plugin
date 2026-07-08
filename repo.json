@@ -1,0 +1,10 @@
+{
+    "$meta": {
+        "name": "Joan's Bunny Plugins",
+        "description": "Plugins by Joan"
+    },
+    "joan.joanAutoReply": {
+        "version": "1.0.0",
+        "alwaysFetch": true
+    }
+}
